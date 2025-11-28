@@ -1,7 +1,7 @@
 # Linux Lab Midterm Project  
 ## **Daily User Log Archiver**
 
-**Student Name:** Priyadarshi Prabhakar
+**Student Name:** AYUSH MOHAN
 **Course:** B.Tech CSE � Linux Lab  
 **Project Type:** Shell Scripting  
 **Date:** October 2025  
@@ -210,5 +210,6 @@ The *Daily User Log Archiver* efficiently:
 - Automates daily system monitoring  
 - Reduces manual log management  
 - Demonstrates file handling, archiving, scheduling, and automation concepts  
+
 
 This project encapsulates key Linux administration skills through scripting.
