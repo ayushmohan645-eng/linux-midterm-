@@ -1,0 +1,23 @@
+User: wizzz
+Date: Sunday 19 October 2025 05:00:01 PM IST
+----------------------------------------
+System Uptime:
+ 17:00:01 up 12 min,  1 user,  load average: 0.01, 0.03, 0.00
+----------------------------------------
+Top 5 CPU Consuming Processes:
+    PID COMMAND         %MEM %CPU
+   1526 cinnamon         2.6  1.2
+    900 Xorg             1.1  0.4
+      1 systemd          0.1  0.3
+    612 systemd-resolve  0.1  0.2
+   1959 mintreport-tray  0.7  0.2
+----------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           835M  1.3M  834M   1% /run
+efivarfs        256K  204K   48K  82% /sys/firmware/efi/efivars
+/dev/sda2        24G   11G   13G  46% /
+tmpfs           4.1G     0  4.1G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sda1       511M  6.2M  505M   2% /boot/efi
+tmpfs           835M  188K  835M   1% /run/user/1000
